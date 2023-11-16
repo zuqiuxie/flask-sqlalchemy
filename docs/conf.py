@@ -26,7 +26,7 @@ issues_github_path = "pallets-eco/flask-sqlalchemy"
 
 # HTML -----------------------------------------------------------------
 
-html_theme = "sphinx"
+html_theme = "insegel"
 html_context = {
     "project_links": [
         ProjectLink("Donate", "https://palletsprojects.com/donate"),
